@@ -16,21 +16,7 @@
   - 基本border-radius效果
 - **GitHub Pages**：作為靜態網站部署平台
 
-## 功能特色
-
-- 顏色與尺寸選擇按鈕，選取時會變色加框
-- 商品主圖搭配影片預覽
-- 選取運送方式、加購禮物袋、商品數量調整、加入購物車等元件
-- 價格區塊排版（原價、新品標籤）
-- 使用純 HTML/CSS 完成，不含 JavaScript
-
 ## 學習目標
 
-- 練習商品頁面切版與區塊佈局
-- 熟悉 radio 與 label 搭配的互動控制
-- 練習 GitHub Pages 上傳與靜態網站部署流程
-
-## 作者
-
-alx5609  
-[GitHub Repo](https://github.com/alx5609/HTML-CSS-Practice)
+- 熟悉radio與label搭配的互動控制
+- 練習GitHub Pages上傳與靜態網站部署流程
