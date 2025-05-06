@@ -4,7 +4,7 @@
 
 ## 預覽連結
 
-(https://alx5609.github.io/HTML-CSS-Practice/)
+https://alx5609.github.io/HTML-CSS-Practice/
 
 ## 使用技術
 
